@@ -1,5 +1,9 @@
-### Hi there 👋
-
+# Hi there, Welecome to my github Account 👋
+## I am Mahmoud FETTAL a Engeneering student At INSEA studying Data and Software enginnering   
+I use Python as my primary programming language and I am developing my skills in other programming languages and technologies
+## Here are some stats about my GitHub activity
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudFettal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudFettal&layout&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MahmoudFettal/MahmoudFettal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
