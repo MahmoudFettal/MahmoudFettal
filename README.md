@@ -1,5 +1,5 @@
 # Hi there, Welecome to my github Account 👋
-## I am Mahmoud FETTAL a Engeneering student At INSEA studying Data and Software enginnering   
+I am Mahmoud FETTAL a Engeneering student At INSEA studying Data and Software enginnering   
 I use Python as my primary programming language and I am developing my skills in other programming languages and technologies
 ## Here are some stats about my GitHub activity
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudFettal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
