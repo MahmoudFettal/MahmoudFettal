@@ -1,21 +1,20 @@
-# Hi there, Welecome to my github Account 👋
-I am Mahmoud FETTAL a Engeneering student At INSEA studying Data and Software enginnering   
-I use Python as my primary programming language and I am developing my skills in other programming languages and technologies
-## Here are some stats about my GitHub activity
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudFettal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudFettal&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, Hii 👋 I am Mahmoud
+#### I am a Data and Software Engineering student
+![I am a Data and Software Engineering student](https://images.unsplash.com/photo-1554290712-e640351074bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=965&q=80)
 
-<!--
-**MahmoudFettal/MahmoudFettal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 21 years aspiring and highly motivated engineering student from Morocco, I am enthusiastic about AI, 
+UI/UX design, problem-solving, and game development. 
 
-Here are some ideas to get you started:
+My main aim is to build highly efficient software with well-optimized code that gives the best user experience 
+and serve in automation and organization of daily tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Blog with Django 
+- 🌱 I’m currently learning Java and React 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmoudFettal)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudFettal)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudFettal&show_icons=true&count_private=true)  
+
