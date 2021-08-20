@@ -1,4 +1,4 @@
-### Hi there 👋, Hii 👋 I am Mahmoud
+### Hi there 👋 I am Mahmoud
 #### I am a Data and Software Engineering student
 ![I am a Data and Software Engineering student](https://images.unsplash.com/photo-1554290712-e640351074bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=965&q=80)
 
