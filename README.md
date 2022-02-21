@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=MahmoudFettal&style=flat-square&color=red)
 <p>
   <h1>Hi! 👋 I am Mahmoud</h1>
   <p>
@@ -61,7 +62,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudFettal&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
-  <samp>Visitor count<samp/><br><br>
-  <img src="https://profile-counter.glitch.me/MahmoudFettal/count.svg" />
-</p>
