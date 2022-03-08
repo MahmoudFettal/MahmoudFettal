@@ -11,49 +11,58 @@
 <h2>🛠 Technologies and tools</h2>
 <p align="left">
    <a>
-    <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&color=393D40"/>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=393D40"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&color=393D40"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=blue"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&color=393D40"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=PHP&color=393D40"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Azure-informational?style=for-the-badge&logo=azure-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   </a> 
   <a>
-    <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=html-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Numpy-informational?style=for-the-badge&logo=Numpy-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   </a> 
   <a>
-    <img src="https://img.shields.io/badge/Pandas-informational?style=for-the-badge&logo=Pandas-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   </a> 
   <a>
-    <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=sql-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a> 
   <a>
-    <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a> 
    <a>
-    <img src="https://img.shields.io/badge/Oracle-informational?style=for-the-badge&logo=oracle-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   </a> 
   <a>
-    <img src="https://img.shields.io/badge/Vscode-informational?style=for-the-badge&logo=visual-studio-code&color=393D40"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a> 
   <a>
-    <img src="https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=Figma&color=393D40"/>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 </p>
 <p>
