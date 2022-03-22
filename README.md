@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MahmoudFettal&style=flat-square&color=red)
+![](https://komarev.com/ghpvc/?username=MahmoudFettal&style=for-the-badge&color=43aa8b)
 <p>
   <h1>Hi! 👋 I am Mahmoud</h1>
   <p>
