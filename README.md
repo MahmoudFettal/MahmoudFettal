@@ -1,6 +1,9 @@
-![](https://komarev.com/ghpvc/?username=MahmoudFettal&style=for-the-badge&color=43aa8b)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudFettal&style=for-the-badge&color=43aa8b" />
 <p>
-  <h1>Hi! 👋 I am Mahmoud</h1>
+  
+<p>
+  <h1 align="center">Hi! 👋 I am Mahmoud</h1>
   <p>
   <h4>• Microsoft learn student Ambassador</h4>
   <h4>• Data and Software engineering student at INSEA</h4>
@@ -8,7 +11,7 @@
   </p>
 </p>
 
-<h2>🛠 Technologies and tools</h2>
+<h1 align="center">🛠 Technologies and tools</h1>
 <p align="center">
    <a>
     <img src="https://img.shields.io/badge/Python-43aa8b?style=for-the-badge&logo=python&logoColor=white"/>
