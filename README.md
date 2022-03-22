@@ -9,7 +9,7 @@
 </p>
 
 <h2>🛠 Technologies and tools</h2>
-<p align="left">
+<p align="center">
    <a>
     <img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
