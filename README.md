@@ -69,11 +69,9 @@
   <h2>📈 Statistics</h2>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudFettal&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahmoudFettal&theme=ads-juicy-fresh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudFettal&theme=ads-juicy-fresh&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
+
 
 
