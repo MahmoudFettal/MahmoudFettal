@@ -68,4 +68,5 @@
     <img src="https://img.shields.io/badge/figma-43aa8b?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudFettal&show_icons=true&locale=en&theme=tokyonight" alt="contribution status" /></p>
 
