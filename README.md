@@ -11,6 +11,14 @@
   </p>
 </p>
 
+<h1 align="center">📈 My statistics </h1>
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudFettal&theme=github_dark"> </p> 
+<p align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudFettal&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudFettal&theme=github_dark">
+</p> 
+
 <h1 align="center">🛠 Technologies and tools</h1>
 <p align="center">
    <a>
