@@ -7,7 +7,7 @@
   <p>
   <h4>• Microsoft learn student Ambassador</h4>
   <h4>• Data and Software engineering student at INSEA</h4>
-  I am a 21 years aspiring and highly motivated engineering student from Morocco, currently, I am a second-year engineering student, I am enthusiastic about AI, UI/UX design, problem solving and games development. I always aim to create the best software for the situation using less code.
+I am 22 years old aspiring Full-stack engineer, highly skilled in data engineering and machine learning, with strong foundations in problem solving, data analysis, cloud technologies, agile project management,  and  UI/UX design.
   </p>
 </p>
 
