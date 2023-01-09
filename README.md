@@ -7,7 +7,8 @@
   <p>
   <h4>• Microsoft learn student Ambassador</h4>
   <h4>• Data and Software engineering student at INSEA</h4>
-I am 22 years old aspiring Full-stack engineer, highly skilled in data engineering and machine learning, with strong foundations in problem solving, data analysis, cloud technologies, agile project management,  and  UI/UX design.
+  Versatile data engineering student with solid foundations in Math, Algorithms, UI/UX Design and Coding.
+  Community-driven with an outstanding track record of soft skills including leadership, collaboration and communica
   </p>
 </p>
 
