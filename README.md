@@ -7,7 +7,7 @@
   <p>
   <h4>• Microsoft learn student Ambassador</h4>
   <h4>• Data and Software engineering student at INSEA</h4>
-  Versatile data engineering student with solid foundations in Math, Algorithms, UI/UX Design and Coding.
+  I am Versatile data engineering student with solid foundations in Math, Algorithms, UI/UX Design and Coding.
   Community-driven with an outstanding track record of soft skills including leadership, collaboration and communica
   </p>
 </p>
