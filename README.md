@@ -77,3 +77,4 @@
   </a>
 </p>
 
+![Snake animation](https://github.com/MahmoudFettal/MahmoudFettal/blob/output/github-contribution-grid-snake.svg)
